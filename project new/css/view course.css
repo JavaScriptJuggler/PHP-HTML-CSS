@@ -1,0 +1,30 @@
+#tbl1{
+	
+			width:900px;
+			text-align: center;
+			
+}
+#td1{
+			background-color: #eef1f3;
+		}
+		#td2{
+			background-color: #b6c5cd;
+		}
+		#b1{
+			height:35px;
+			width: 110px;
+			border-radius: 9px;
+			background-color: #ff5656;
+		}
+		#b1:hover{
+			background-color: #fb0000;
+		}
+		#b2{
+			height:35px;
+			width: 110px;
+			border-radius: 9px;
+			background-color: #2be040;
+		}
+		#b2:hover{
+			background-color: #30fb48;
+		}

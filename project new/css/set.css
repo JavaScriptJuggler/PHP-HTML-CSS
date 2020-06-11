@@ -1,0 +1,14 @@
+#img{
+	height: 300px;
+	width: 300px;
+}
+fieldset{
+	width: 300px;
+	padding: 30px;
+	position: absolute;
+	left: 400px;
+	top: 250px;
+}
+legend{
+	font-size: 20px;
+}
